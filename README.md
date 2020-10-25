@@ -1,2 +1,5 @@
 # AliShahrokhi
-About ?
+
+# Hellow there 👋🏻🤓
+
+- 🌱 I’m currently learning ...
