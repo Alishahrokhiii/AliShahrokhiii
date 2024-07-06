@@ -1,6 +1,6 @@
 # Seyed Ali Shahrokhi
 
-# Hellow there 👋🏻🤓
+# Hello there 👋🏻🤓
 
 - 🌱 I’m currently learning ...
 
