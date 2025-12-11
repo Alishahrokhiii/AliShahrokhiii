@@ -60,13 +60,17 @@ Expect breakdowns, photography, coding vlogs, and tool recommendations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishahrokhiii&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=alishahrokhiii&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alishahrokhiii&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishahrokhiii&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 
 ---
 
